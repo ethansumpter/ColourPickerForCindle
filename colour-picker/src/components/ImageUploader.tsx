@@ -62,7 +62,7 @@ export function ImageUploader({ onImageUploaded }: ImageUploaderProps) {
     <div
       onDragOver={(e) => e.preventDefault()}
       onDrop={handleDrop}
-      className="w-full max-w-2xl p-8 border-2 border-dashed rounded-lg hover:border-primary/50 transition-colors"
+      className="w-full max-w-2xl mx-auto p-8 border-2 border-dashed rounded-lg hover:border-primary/50 transition-colors"
     >
       <UploadStatus error={error} uploading={uploading} snapshot={snapshot} />
       
@@ -98,4 +98,4 @@ export function ImageUploader({ onImageUploaded }: ImageUploaderProps) {
       </div>
     </div>
   );
-} 
+}
