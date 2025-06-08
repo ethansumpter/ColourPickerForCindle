@@ -17,13 +17,15 @@ export default function Home() {
   };
 
   return (
-    <main className="flex min-h-screen flex-col items-center p-24 gap-8">
-      <h1 className="text-4xl font-bold">Colour Picker</h1>
-      {uploadedImageUrl ? (
-        <ImageViewer imageUrl={uploadedImageUrl} onReset={handleReset} />
-      ) : (
-        <ImageUploader onImageUploaded={handleImageUploaded} />
-      )}
+    <main className="flex h-screen flex-col items-center p-4 sm:p-8 lg:p-24 overflow-hidden">
+      <h1 className="text-3xl sm:text-4xl font-bold mb-8">Colour Picker</h1>
+      <div className="w-full flex-1 min-h-0">
+        {uploadedImageUrl ? (
+          <ImageViewer imageUrl={uploadedImageUrl} onReset={handleReset} />
+        ) : (
+          <ImageUploader onImageUploaded={handleImageUploaded} />
+        )}
+      </div>
     </main>
   );
 }

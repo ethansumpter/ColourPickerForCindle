@@ -1,0 +1,627 @@
+[
+  {
+    "name": "Lemon Yellow Hue",
+    "hex": "#F7EF79",
+    "rgb": "rgb(247, 239, 121)"
+  },
+  {
+    "name": "Winsor Lemon",
+    "hex": "#FBEE34",
+    "rgb": "rgb(251, 238, 52)"
+  },
+  {
+    "name": "Cadmium Lemon",
+    "hex": "#FCEE1E",
+    "rgb": "rgb(252, 238, 30)"
+  },
+  {
+    "name": "Cadmium Free Lemon",
+    "hex": "#ECDB14",
+    "rgb": "rgb(236, 219, 20)"
+  },
+  {
+    "name": "Bismuth Yellow",
+    "hex": "#EAE84B",
+    "rgb": "rgb(234, 232, 75)"
+  },
+  {
+    "name": "Transparent Yellow",
+    "hex": "#FBE802",
+    "rgb": "rgb(251, 232, 2)"
+  },
+  {
+    "name": "Winsor Yellow",
+    "hex": "#F9E700",
+    "rgb": "rgb(249, 231, 0)"
+  },
+  {
+    "name": "Chrome Yellow Hue",
+    "hex": "#FAE200",
+    "rgb": "rgb(250, 226, 0)"
+  },
+  {
+    "name": "Cadmium Yellow Pale",
+    "hex": "#FCD700",
+    "rgb": "rgb(252, 215, 0)"
+  },
+  {
+    "name": "Cadmium Free Yellow Pale",
+    "hex": "#ECDB14",
+    "rgb": "rgb(236, 219, 20)"
+  },
+  {
+    "name": "Indian Yellow Deep",
+    "hex": "#FED103",
+    "rgb": "rgb(254, 209, 3)"
+  },
+  {
+    "name": "Indian Yellow",
+    "hex": "#F2B01D",
+    "rgb": "rgb(242, 176, 29)"
+  },
+  {
+    "name": "Cadmium Yellow",
+    "hex": "#ED9A22",
+    "rgb": "rgb(237, 154, 34)"
+  },
+  {
+    "name": "Cadmium Free Yellow",
+    "hex": "#FAA21B",
+    "rgb": "rgb(250, 162, 27)"
+  },
+  {
+    "name": "Winsor Yellow Deep",
+    "hex": "#EEA121",
+    "rgb": "rgb(238, 161, 33)"
+  },
+  {
+    "name": "Cadmium Yellow Deep",
+    "hex": "#E68125",
+    "rgb": "rgb(230, 129, 37)"
+  },
+  {
+    "name": "Cadmium Free Yellow Deep",
+    "hex": "#F58220",
+    "rgb": "rgb(245, 130, 32)"
+  },
+  {
+    "name": "Cadmium Orange",
+    "hex": "#DD6B26",
+    "rgb": "rgb(221, 107, 38)"
+  },
+  {
+    "name": "Cadmium Free Orange",
+    "hex": "#F26724",
+    "rgb": "rgb(242, 103, 36)"
+  },
+  {
+    "name": "Winsor Orange",
+    "hex": "#E08A2A",
+    "rgb": "rgb(224, 138, 42)"
+  },
+  {
+    "name": "Cadmium Scarlet",
+    "hex": "#D84226",
+    "rgb": "rgb(216, 66, 38)"
+  },
+  {
+    "name": "Cadmium Free Scarlet",
+    "hex": "#E63E30",
+    "rgb": "rgb(230, 62, 48)"
+  },
+  {
+    "name": "Scarlet Lake",
+    "hex": "#D32027",
+    "rgb": "rgb(211, 32, 39)"
+  },
+  {
+    "name": "Winsor Red",
+    "hex": "#CC2027",
+    "rgb": "rgb(204, 32, 39)"
+  },
+  {
+    "name": "Cadmium Red",
+    "hex": "#D31F35",
+    "rgb": "rgb(211, 31, 53)"
+  },
+  {
+    "name": "Cadmium Free Red",
+    "hex": "#E12827",
+    "rgb": "rgb(225, 40, 39)"
+  },
+  {
+    "name": "Bright Red",
+    "hex": "#CA202D",
+    "rgb": "rgb(202, 32, 45)"
+  },
+  {
+    "name": "Winsor Red Deep",
+    "hex": "#BF202B",
+    "rgb": "rgb(191, 32, 43)"
+  },
+  {
+    "name": "Cadmium Red Deep",
+    "hex": "#A71E2F",
+    "rgb": "rgb(167, 30, 47)"
+  },
+  {
+    "name": "Cadmium Free Red Deep",
+    "hex": "#A42036",
+    "rgb": "rgb(164, 32, 54)"
+  },
+  {
+    "name": "Quinacridone Red",
+    "hex": "#EF3753",
+    "rgb": "rgb(239, 55, 83)"
+  },
+  {
+    "name": "Pale Rose Blush",
+    "hex": "#FABEAE",
+    "rgb": "rgb(250, 190, 174)"
+  },
+  {
+    "name": "Permanent Rose",
+    "hex": "#CA1F4B",
+    "rgb": "rgb(202, 31, 75)"
+  },
+  {
+    "name": "Rose Doré",
+    "hex": "#E7948C",
+    "rgb": "rgb(231, 148, 140)"
+  },
+  {
+    "name": "Rose Madder Genuine",
+    "hex": "#E1506D",
+    "rgb": "rgb(225, 80, 109)"
+  },
+  {
+    "name": "Alizarin Crimson",
+    "hex": "#AC1F25",
+    "rgb": "rgb(172, 31, 37)"
+  },
+  {
+    "name": "Permanent Alizarin Crimson",
+    "hex": "#C82036",
+    "rgb": "rgb(200, 32, 54)"
+  },
+  {
+    "name": "Permanent Carmine",
+    "hex": "#BD2657",
+    "rgb": "rgb(189, 38, 87)"
+  },
+  {
+    "name": "Quinacridone Magenta",
+    "hex": "#B4469A",
+    "rgb": "rgb(180, 70, 154)"
+  },
+  {
+    "name": "Magenta",
+    "hex": "#A5206D",
+    "rgb": "rgb(165, 32, 109)"
+  },
+  {
+    "name": "Permanent Magenta",
+    "hex": "#901D58",
+    "rgb": "rgb(144, 29, 88)"
+  },
+  {
+    "name": "Purple Madder",
+    "hex": "#6B0B2C",
+    "rgb": "rgb(107, 11, 44)"
+  },
+  {
+    "name": "Purple Lake",
+    "hex": "#502847",
+    "rgb": "rgb(80, 40, 71)"
+  },
+  {
+    "name": "Cobalt Violet",
+    "hex": "#974287",
+    "rgb": "rgb(151, 66, 135)"
+  },
+  {
+    "name": "Permanent Mauve",
+    "hex": "#622B67",
+    "rgb": "rgb(98, 43, 103)"
+  },
+  {
+    "name": "Mauve Blue Shade",
+    "hex": "#372D77",
+    "rgb": "rgb(55, 45, 119)"
+  },
+  {
+    "name": "Ultramarine Violet",
+    "hex": "#7D559A",
+    "rgb": "rgb(125, 85, 154)"
+  },
+  {
+    "name": "Winsor Violet (Dioxazine)",
+    "hex": "#612E81",
+    "rgb": "rgb(97, 46, 129)"
+  },
+  {
+    "name": "Prussian Blue",
+    "hex": "#233C78",
+    "rgb": "rgb(35, 60, 120)"
+  },
+  {
+    "name": "Indanthrene Blue",
+    "hex": "#201D52",
+    "rgb": "rgb(32, 29, 82)"
+  },
+  {
+    "name": "Cobalt Blue Deep",
+    "hex": "#2C3480",
+    "rgb": "rgb(44, 52, 128)"
+  },
+  {
+    "name": "French Ultramarine",
+    "hex": "#054F96",
+    "rgb": "rgb(5, 79, 150)"
+  },
+  {
+    "name": "Ultramarine (Green Shade)",
+    "hex": "#005FA6",
+    "rgb": "rgb(0, 95, 166)"
+  },
+  {
+    "name": "Winsor Blue (Red Shade)",
+    "hex": "#035797",
+    "rgb": "rgb(3, 87, 151)"
+  },
+  {
+    "name": "Winsor Blue (Green Shade)",
+    "hex": "#1E3868",
+    "rgb": "rgb(30, 56, 104)"
+  },
+  {
+    "name": "Cerulean Blue",
+    "hex": "#4BA7C8",
+    "rgb": "rgb(75, 167, 200)"
+  },
+  {
+    "name": "Cobalt Blue",
+    "hex": "#006DB4",
+    "rgb": "rgb(0, 109, 180)"
+  },
+  {
+    "name": "Manganese Blue Hue",
+    "hex": "#1099D6",
+    "rgb": "rgb(16, 153, 214)"
+  },
+  {
+    "name": "Phthalo Turquoise",
+    "hex": "#0D5A6B",
+    "rgb": "rgb(13, 90, 107)"
+  },
+  {
+    "name": "Cobalt Turquoise",
+    "hex": "#007272",
+    "rgb": "rgb(0, 114, 114)"
+  },
+  {
+    "name": "Cobalt Turquoise Light",
+    "hex": "#00B1A9",
+    "rgb": "rgb(0, 177, 169)"
+  },
+  {
+    "name": "Cobalt Green",
+    "hex": "#024955",
+    "rgb": "rgb(2, 73, 85)"
+  },
+  {
+    "name": "Cadmium Green Pale",
+    "hex": "#98CB4F",
+    "rgb": "rgb(152, 203, 79)"
+  },
+  {
+    "name": "Cadmium Free Green Pale",
+    "hex": "#98CB4F",
+    "rgb": "rgb(152, 203, 79)"
+  },
+  {
+    "name": "Winsor Emerald",
+    "hex": "#2FA170",
+    "rgb": "rgb(47, 161, 112)"
+  },
+  {
+    "name": "Permanent Green Light",
+    "hex": "#369244",
+    "rgb": "rgb(54, 146, 68)"
+  },
+  {
+    "name": "Permanent Green",
+    "hex": "#369244",
+    "rgb": "rgb(54, 146, 68)"
+  },
+  {
+    "name": "Permanent Green Deep",
+    "hex": "#238C44",
+    "rgb": "rgb(35, 140, 68)"
+  },
+  {
+    "name": "Terre Verte",
+    "hex": "#A3C08B",
+    "rgb": "rgb(163, 192, 139)"
+  },
+  {
+    "name": "Oxide of Chromium",
+    "hex": "#5F853B",
+    "rgb": "rgb(95, 133, 59)"
+  },
+  {
+    "name": "Chrome Green Deep Hue",
+    "hex": "#20763B",
+    "rgb": "rgb(32, 118, 59)"
+  },
+  {
+    "name": "Cobalt Chromite Green",
+    "hex": "#90B89A",
+    "rgb": "rgb(144, 184, 154)"
+  },
+  {
+    "name": "Viridian",
+    "hex": "#1E9A5E",
+    "rgb": "rgb(30, 154, 94)"
+  },
+  {
+    "name": "Winsor Green (Yellow Shade)",
+    "hex": "#2B8842",
+    "rgb": "rgb(43, 136, 66)"
+  },
+  {
+    "name": "Winsor Green (Phthalo)",
+    "hex": "#007F4E",
+    "rgb": "rgb(0, 127, 78)"
+  },
+  {
+    "name": "Prussian Green",
+    "hex": "#0E6C37",
+    "rgb": "rgb(14, 108, 55)"
+  },
+  {
+    "name": "Sap Green",
+    "hex": "#236533",
+    "rgb": "rgb(35, 101, 51)"
+  },
+  {
+    "name": "Olive Green",
+    "hex": "#3C4C24",
+    "rgb": "rgb(60, 76, 36)"
+  },
+  {
+    "name": "Green Gold",
+    "hex": "#567434",
+    "rgb": "rgb(86, 116, 52)"
+  },
+  {
+    "name": "Jaune Brillant",
+    "hex": "#F6CF3E",
+    "rgb": "rgb(246, 207, 62)"
+  },
+  {
+    "name": "Naples Yellow Light",
+    "hex": "#FCF0A7",
+    "rgb": "rgb(252, 240, 167)"
+  },
+  {
+    "name": "Naples Yellow",
+    "hex": "#F8D877",
+    "rgb": "rgb(248, 216, 119)"
+  },
+  {
+    "name": "Naples Yellow Deep",
+    "hex": "#F1BD48",
+    "rgb": "rgb(241, 189, 72)"
+  },
+  {
+    "name": "Yellow Ochre Pale",
+    "hex": "#E0A126",
+    "rgb": "rgb(224, 161, 38)"
+  },
+  {
+    "name": "Yellow Ochre Light",
+    "hex": "#C7962C",
+    "rgb": "rgb(199, 150, 44)"
+  },
+  {
+    "name": "Gold Ochre",
+    "hex": "#D69828",
+    "rgb": "rgb(214, 152, 40)"
+  },
+  {
+    "name": "Yellow Ochre",
+    "hex": "#C18F32",
+    "rgb": "rgb(193, 143, 50)"
+  },
+  {
+    "name": "Raw Sienna",
+    "hex": "#C9822A",
+    "rgb": "rgb(201, 130, 42)"
+  },
+  {
+    "name": "Transparent Gold Ochre",
+    "hex": "#E3AC36",
+    "rgb": "rgb(227, 172, 54)"
+  },
+  {
+    "name": "Burnt Sienna",
+    "hex": "#BB3726",
+    "rgb": "rgb(187, 55, 38)"
+  },
+  {
+    "name": "Transparent Brown Oxide",
+    "hex": "#884D31",
+    "rgb": "rgb(136, 77, 49)"
+  },
+  {
+    "name": "Transparent Maroon",
+    "hex": "#AD452F",
+    "rgb": "rgb(173, 69, 47)"
+  },
+  {
+    "name": "Brown Ochre",
+    "hex": "#BA6D29",
+    "rgb": "rgb(186, 109, 41)"
+  },
+  {
+    "name": "Transparent Red Ochre",
+    "hex": "#DC7134",
+    "rgb": "rgb(220, 113, 52)"
+  },
+  {
+    "name": "Terra Rosa",
+    "hex": "#AF2025",
+    "rgb": "rgb(175, 32, 37)"
+  },
+  {
+    "name": "Light Red",
+    "hex": "#89351D",
+    "rgb": "rgb(137, 53, 29)"
+  },
+  {
+    "name": "Venetian Red",
+    "hex": "#901F1D",
+    "rgb": "rgb(144, 31, 29)"
+  },
+  {
+    "name": "Indian Red",
+    "hex": "#AD452F",
+    "rgb": "rgb(173, 69, 47)"
+  },
+  {
+    "name": "Mars Violet Deep",
+    "hex": "#87202C",
+    "rgb": "rgb(135, 32, 44)"
+  },
+  {
+    "name": "Brown Madder",
+    "hex": "#973622",
+    "rgb": "rgb(151, 54, 34)"
+  },
+  {
+    "name": "Burnt Umber",
+    "hex": "#633C16",
+    "rgb": "rgb(99, 60, 22)"
+  },
+  {
+    "name": "Vandyke Brown",
+    "hex": "#221417",
+    "rgb": "rgb(34, 20, 23)"
+  },
+  {
+    "name": "Raw Umber Light",
+    "hex": "#BF972D",
+    "rgb": "rgb(191, 151, 45)"
+  },
+  {
+    "name": "Raw Umber (Green Shade)",
+    "hex": "#967C52",
+    "rgb": "rgb(150, 124, 82)"
+  },
+  {
+    "name": "Raw Umber",
+    "hex": "#523420",
+    "rgb": "rgb(82, 52, 32)"
+  },
+  {
+    "name": "Davy’s Gray",
+    "hex": "#C1BF9B",
+    "rgb": "rgb(193, 191, 155)"
+  },
+  {
+    "name": "Charcoal Grey",
+    "hex": "#212222",
+    "rgb": "rgb(33, 34, 34)"
+  },
+  {
+    "name": "Indigo",
+    "hex": "#0B5EAA",
+    "rgb": "rgb(11, 94, 170)"
+  },
+  {
+    "name": "Payne’s Gray",
+    "hex": "#404348",
+    "rgb": "rgb(64, 67, 72)"
+  },
+  {
+    "name": "Blue Black",
+    "hex": "#0A0F10",
+    "rgb": "rgb(10, 15, 16)"
+  },
+  {
+    "name": "Mars Black",
+    "hex": "#161617",
+    "rgb": "rgb(22, 22, 23)"
+  },
+  {
+    "name": "Ivory Black",
+    "hex": "#0C0B0A",
+    "rgb": "rgb(12, 11, 10)"
+  },
+  {
+    "name": "Lamp Black",
+    "hex": "#0C0B0A",
+    "rgb": "rgb(12, 11, 10)"
+  },
+  {
+    "name": "Perylene Black",
+    "hex": "#1F3327",
+    "rgb": "rgb(31, 51, 39)"
+  },
+  {
+    "name": "Iridescent White",
+    "hex": "#FFFFFF",
+    "rgb": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "Flake White Hue",
+    "hex": "#FFFFFF",
+    "rgb": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "Titanium White",
+    "hex": "#FFFFFF",
+    "rgb": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "Underpainting White (Fast Drying)",
+    "hex": "#FFFFFF",
+    "rgb": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "Zinc White",
+    "hex": "#FFFFFF",
+    "rgb": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "Gold",
+    "hex": "#E9D491",
+    "rgb": "rgb(233, 212, 145)"
+  },
+  {
+    "name": "Renaissance Gold",
+    "hex": "#DD9530",
+    "rgb": "rgb(221, 149, 48)"
+  },
+  {
+    "name": "Copper",
+    "hex": "#CE702B",
+    "rgb": "rgb(206, 112, 43)"
+  },
+  {
+    "name": "Bronze",
+    "hex": "#6E4D25",
+    "rgb": "rgb(110, 77, 37)"
+  },
+  {
+    "name": "Pewter",
+    "hex": "#ACA29B",
+    "rgb": "rgb(172, 162, 155)"
+  },
+  {
+    "name": "Silver",
+    "hex": "#BBBCBB",
+    "rgb": "rgb(187, 188, 187)"
+  }
+]
