@@ -84,15 +84,27 @@ export function labToRgb(lab: [number, number, number]): [number, number, number
   ];
 }
 
-// Calculate color accuracy percentage
+// Calculate color accuracy percentage using Delta E (CIE76) for more perceptually accurate results
 export function calculateAccuracy(targetRgb: [number, number, number], mixedRgb: [number, number, number]): number {
-  const maxDistance = Math.sqrt(
-    2 * 255 * 255 + // Red (weighted by 2)
-    4 * 255 * 255 + // Green (weighted by 4)
-    3 * 255 * 255   // Blue (weighted by 3)
+  // Convert both colors to Lab color space for more accurate comparison
+  const targetLab = rgbToLab(targetRgb);
+  const mixedLab = rgbToLab(mixedRgb);
+  
+  // Calculate Delta E (CIE76) - the standard for measuring color differences
+  const deltaE = Math.sqrt(
+    Math.pow(targetLab[0] - mixedLab[0], 2) + // L* difference
+    Math.pow(targetLab[1] - mixedLab[1], 2) + // a* difference  
+    Math.pow(targetLab[2] - mixedLab[2], 2)   // b* difference
   );
-  const distance = colorDistance(targetRgb, mixedRgb);
-  return Math.max(0, Math.min(100, (1 - distance / maxDistance) * 100));
+  
+  // Convert Delta E to percentage
+  // Delta E of 0 = 100% match, Delta E of 100 = 0% match
+  // Most people can't perceive differences below Delta E of 2-3
+  // Delta E of 10+ is considered very noticeable
+  const maxDeltaE = 100; // Reasonable maximum for very different colors
+  const accuracy = Math.max(0, Math.min(100, (1 - deltaE / maxDeltaE) * 100));
+  
+  return accuracy;
 }
 
 // Helper function to calculate color distance
